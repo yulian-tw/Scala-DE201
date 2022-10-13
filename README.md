@@ -18,10 +18,13 @@ It's part of the _DE201_ course using scala as programming language. Experimenti
 3. Open new IntelliJ editor, import `hello-world` project using `hello-world/build.sbt` as of [Building a Scala Project with IntelliJ and sbt](https://docs.scala-lang.org/getting-started/intellij-track/building-a-scala-project-with-intellij-and-sbt.html#creating-the-project). Note that the sbt version difference with `sbt --version`. Update `hello-world/project/build.properties`.
 
 
-4. do something
+4. Follow remaining steps in [Building a Scala Project with IntelliJ and sbt](https://docs.scala-lang.org/getting-started/intellij-track/building-a-scala-project-with-intellij-and-sbt.html#understanding-the-directory-structure).
 
-#### Reference
+---
+
+### Reference Materials / Tools
 - Continuous learning from: [My First SBT](https://github.com/yulian-tw/My-First-SBT) which follow [sbt by example](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html).
+- The Scala Library Index: [Scaladex](https://index.scala-lang.org/)
 
 ---
 
