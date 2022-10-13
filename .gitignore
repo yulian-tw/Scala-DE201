@@ -1,2 +1,6 @@
+# generated from GitHub template
 *.class
 *.log
+
+# IDE related
+.idea/
