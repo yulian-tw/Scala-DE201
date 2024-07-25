@@ -25,6 +25,7 @@ It's part of the _DE201_ course using scala as programming language. Experimenti
 ### Reference Materials / Tools
 - Continuous learning from: [My First SBT](https://github.com/yulian-tw/My-First-SBT) which follow [sbt by example](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html).
 - The Scala Library Index: [Scaladex](https://index.scala-lang.org/)
+- [**SCALA FOR JAVA DEVELOPERS cheatsheet**](https://docs.scala-lang.org/scala3/book/scala-for-java-devs.html)
 
 ---
 
